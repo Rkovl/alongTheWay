@@ -51,9 +51,7 @@
 ***
 ### Joy He
 Role: HTML and CSS, retrieving weather API data, integrating weather into main HTML file
-### Dan Kilian
-Role: Initial Google API handling, and then he quit `¯\_(ツ)_/¯`
 ### Ryan Kovlaske
-Role: Google API handling, added search field functionality on main page, picking up where Dan left off
+Role: Google API handling, added search field functionality on main page
 ### Thomas Scheltema
 Role: HTML and CSS, helping with weather API, integrating new code into the HTML structure, README file
